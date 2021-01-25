@@ -1,0 +1,2 @@
+C:\Users\msotn\Desktop\trash\New folder\Test\x64\Debug\Source.pdb
+C:\Users\msotn\Desktop\trash\New folder\Test\Source\x64\Debug\Source.pdb
